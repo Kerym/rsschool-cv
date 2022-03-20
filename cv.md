@@ -10,26 +10,26 @@
 > Hello Alem! My name is Kerym, I'm 26 years old and I'm from Kazakhstan, Nur-Sultan. Currently I'm working as a PMF-TAX consultant in a SAP ERP project, mainly in charge of developing and implementing SAP systems for business clients. My job is to create customised SAP solutions, and smoothly integrate SAP applications with existing IT infrastructure.
 ***
 ### Skills and Proficiency:
-* SAP ERP, ABAP
-* Microsoft Office
-* Go
-* Git, Github
++ SAP ERP, ABAP
++ Microsoft Office
++ Go
++ Git, Github
 ***
 ### Code example:
-This example implements ....
-'''
+This example implements Multiply:
+```
 package multiply
 
 func Multiply(a, b int) int {
   return a * b
 }
-'''
+```
 ***
 ### Education:
 + [Eurasian National University](https://enu.kz/), Information Technologies, 2013-2017
 + [Nazarbayev Intellectual school](https://nis.edu.kz/), Kazakhstan, Kokshetau, 2009-2013
 ***
 ### Language skills:
-* Kazakh: native speaker
-* Russian: native speaker
-* English: B1
++ Kazakh: native speaker
++ Russian: native speaker
++ English: B1
