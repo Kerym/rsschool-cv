@@ -1,9 +1,10 @@
-Koshenova Kerym
+[RSSCHOOL-CV](https://github.com/kerym/rsschool-cv)
+# __*Koshenova Kerym*__
 
-Contact information:
-Phone: +7708 855 8219
-E-mail: kerymu@gmail.com
-Discord: @kerym
+## Contact information:
+**Phone number:** +7 701 0987 300
+**E-mail:** kerymu@gmail.com
+**Discord:** @kerym
 
 About myself:
 Hello Alem! My name is Kerym, I'm 26 years old and I'm from Kazakhstan, Nur-Sultan. Currently I'm working as a PMF-TAX consultant in a SAP ERP project, mainly in charge of developing and implementing SAP systems for business clients. My job is to create customised SAP solutions, and smoothly integrate SAP applications with existing IT infrastructure.
