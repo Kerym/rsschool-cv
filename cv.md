@@ -1,6 +1,6 @@
 [RSSCHOOL-CV](https://github.com/kerym/rsschool-cv)
+***
 # **Koshenova Kerym**
-
 ### Contact information:
 **Phone number:** *+7 701 0987 300*       
 **E-mail:** *kerymu@gmail.com*     
