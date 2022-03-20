@@ -17,10 +17,17 @@
 ***
 ### Code example:
 This example implements ....
+'''
+package multiply
+
+func Multiply(a, b int) int {
+  return a * b
+}
+'''
 ***
 ### Education:
-* [Eurasian National University](https://enu.kz/), Information Technologies, 2013-2017
-* [Nazarbayev Intellectual school](https://nis.edu.kz/), Kazakhstan, Kokshetau, 2009-2013
++ [Eurasian National University](https://enu.kz/), Information Technologies, 2013-2017
++ [Nazarbayev Intellectual school](https://nis.edu.kz/), Kazakhstan, Kokshetau, 2009-2013
 ***
 ### Language skills:
 * Kazakh: native speaker
